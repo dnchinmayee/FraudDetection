@@ -1,4 +1,8 @@
-# FraudDetection
+
+![istockphoto-585806700-612x612](https://github.com/dnchinmayee/FraudDetection/assets/51435468/7ad4db33-8165-4240-9733-9974fbd102be)
+[istockphoto.com]
+
+# Credit Card Fraud Detection
 ## Objective
 Make a prediction model with a binary classifier problem using Logistic Regression,Random Forest,SVM, XGBClassifier and AdaBoostClassifier
 ## Problem statement
