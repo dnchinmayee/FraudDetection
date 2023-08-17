@@ -15,7 +15,7 @@ Basically, the dataset is an imbalance dataset where number of Genuine cases are
 ## Result-Balanced dataset
 ![fig2](https://github.com/dnchinmayee/FraudDetection/assets/51435468/b4d22279-a6bb-431b-a7a2-295ee2c59c6b)
 
-##Result Analysis
+## Result Analysis
 
 Comparing results for both the cases, the result shows RandomForest and Boosting algorithms always gives a good accuracy score. Class 0 is the label for Genuine cases and class1 is the label for Fraud cases. Comparing result RandomForest: for Imbalanced dataset the recall value of Fraud cases is 0.74 while for balanced dataset the recall value became 0.85 and the accuracy score remains same as 0.99. It shows the Recall value has increased as compared to 0.74 after applying SMOTE method. Like this we can compare the result for rest of the methods.
 
